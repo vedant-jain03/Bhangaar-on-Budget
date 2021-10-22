@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bhangaar-on-Budget/static/css/main.fb2d015f.chunk.css",
+    "main.js": "/Bhangaar-on-Budget/static/js/main.28d81a40.chunk.js",
+    "main.js.map": "/Bhangaar-on-Budget/static/js/main.28d81a40.chunk.js.map",
+    "runtime-main.js": "/Bhangaar-on-Budget/static/js/runtime-main.753bc0e9.js",
+    "runtime-main.js.map": "/Bhangaar-on-Budget/static/js/runtime-main.753bc0e9.js.map",
+    "static/css/2.73a4b9c4.chunk.css": "/Bhangaar-on-Budget/static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.bcf52b52.chunk.js": "/Bhangaar-on-Budget/static/js/2.bcf52b52.chunk.js",
+    "static/js/2.bcf52b52.chunk.js.map": "/Bhangaar-on-Budget/static/js/2.bcf52b52.chunk.js.map",
+    "index.html": "/Bhangaar-on-Budget/index.html",
+    "static/css/2.73a4b9c4.chunk.css.map": "/Bhangaar-on-Budget/static/css/2.73a4b9c4.chunk.css.map",
+    "static/css/main.fb2d015f.chunk.css.map": "/Bhangaar-on-Budget/static/css/main.fb2d015f.chunk.css.map",
+    "static/js/2.bcf52b52.chunk.js.LICENSE.txt": "/Bhangaar-on-Budget/static/js/2.bcf52b52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.753bc0e9.js",
+    "static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.bcf52b52.chunk.js",
+    "static/css/main.fb2d015f.chunk.css",
+    "static/js/main.28d81a40.chunk.js"
+  ]
+}
