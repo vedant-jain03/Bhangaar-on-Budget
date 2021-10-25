@@ -10,6 +10,9 @@ app.use(express.json())
 
 app.use(require('./routes/userRoutes'))
 
+app.get('/',(req,res)=>{
+    res.send("BACKEND")
+})
 // connect to DB
 connectDB();
 const port = 5000
