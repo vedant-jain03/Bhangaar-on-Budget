@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Bhangaar-on-Budget/static/css/main.0edde7bc.chunk.css",
-    "main.js": "/Bhangaar-on-Budget/static/js/main.9b17e02e.chunk.js",
-    "main.js.map": "/Bhangaar-on-Budget/static/js/main.9b17e02e.chunk.js.map",
+    "main.js": "/Bhangaar-on-Budget/static/js/main.582ecda8.chunk.js",
+    "main.js.map": "/Bhangaar-on-Budget/static/js/main.582ecda8.chunk.js.map",
     "runtime-main.js": "/Bhangaar-on-Budget/static/js/runtime-main.753bc0e9.js",
     "runtime-main.js.map": "/Bhangaar-on-Budget/static/js/runtime-main.753bc0e9.js.map",
     "static/css/2.4659568d.chunk.css": "/Bhangaar-on-Budget/static/css/2.4659568d.chunk.css",
@@ -11,13 +11,14 @@
     "index.html": "/Bhangaar-on-Budget/index.html",
     "static/css/2.4659568d.chunk.css.map": "/Bhangaar-on-Budget/static/css/2.4659568d.chunk.css.map",
     "static/css/main.0edde7bc.chunk.css.map": "/Bhangaar-on-Budget/static/css/main.0edde7bc.chunk.css.map",
-    "static/js/2.ec081397.chunk.js.LICENSE.txt": "/Bhangaar-on-Budget/static/js/2.ec081397.chunk.js.LICENSE.txt"
+    "static/js/2.ec081397.chunk.js.LICENSE.txt": "/Bhangaar-on-Budget/static/js/2.ec081397.chunk.js.LICENSE.txt",
+    "static/media/Logo.3bc048ed.jpeg": "/Bhangaar-on-Budget/static/media/Logo.3bc048ed.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.753bc0e9.js",
     "static/css/2.4659568d.chunk.css",
     "static/js/2.ec081397.chunk.js",
     "static/css/main.0edde7bc.chunk.css",
-    "static/js/main.9b17e02e.chunk.js"
+    "static/js/main.582ecda8.chunk.js"
   ]
 }
