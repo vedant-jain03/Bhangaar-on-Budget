@@ -2,7 +2,7 @@ import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "../style.css"
 import { Link } from "react-router-dom"
-import Logo from "../Logo.jpeg"
+import Logo from "../Logo.png"
 
 function Homepage() {
     return (

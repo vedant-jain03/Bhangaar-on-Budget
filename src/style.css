@@ -163,6 +163,7 @@ a{
 .service-card h3{
     font-size: 1.2rem;
     font-weight: bold;
+    color: black;
 }
 .service-card p {
     color: var(--secondary-color);
