@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Bhangaar-on-Budget/static/css/main.0edde7bc.chunk.css",
-    "main.js": "/Bhangaar-on-Budget/static/js/main.582ecda8.chunk.js",
-    "main.js.map": "/Bhangaar-on-Budget/static/js/main.582ecda8.chunk.js.map",
+    "main.css": "/Bhangaar-on-Budget/static/css/main.b22e4441.chunk.css",
+    "main.js": "/Bhangaar-on-Budget/static/js/main.2e763d58.chunk.js",
+    "main.js.map": "/Bhangaar-on-Budget/static/js/main.2e763d58.chunk.js.map",
     "runtime-main.js": "/Bhangaar-on-Budget/static/js/runtime-main.753bc0e9.js",
     "runtime-main.js.map": "/Bhangaar-on-Budget/static/js/runtime-main.753bc0e9.js.map",
-    "static/css/2.4659568d.chunk.css": "/Bhangaar-on-Budget/static/css/2.4659568d.chunk.css",
-    "static/js/2.ec081397.chunk.js": "/Bhangaar-on-Budget/static/js/2.ec081397.chunk.js",
-    "static/js/2.ec081397.chunk.js.map": "/Bhangaar-on-Budget/static/js/2.ec081397.chunk.js.map",
+    "static/css/2.cbedb215.chunk.css": "/Bhangaar-on-Budget/static/css/2.cbedb215.chunk.css",
+    "static/js/2.caf0cd6f.chunk.js": "/Bhangaar-on-Budget/static/js/2.caf0cd6f.chunk.js",
+    "static/js/2.caf0cd6f.chunk.js.map": "/Bhangaar-on-Budget/static/js/2.caf0cd6f.chunk.js.map",
     "index.html": "/Bhangaar-on-Budget/index.html",
-    "static/css/2.4659568d.chunk.css.map": "/Bhangaar-on-Budget/static/css/2.4659568d.chunk.css.map",
-    "static/css/main.0edde7bc.chunk.css.map": "/Bhangaar-on-Budget/static/css/main.0edde7bc.chunk.css.map",
-    "static/js/2.ec081397.chunk.js.LICENSE.txt": "/Bhangaar-on-Budget/static/js/2.ec081397.chunk.js.LICENSE.txt",
-    "static/media/Logo.3bc048ed.jpeg": "/Bhangaar-on-Budget/static/media/Logo.3bc048ed.jpeg"
+    "static/css/2.cbedb215.chunk.css.map": "/Bhangaar-on-Budget/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.b22e4441.chunk.css.map": "/Bhangaar-on-Budget/static/css/main.b22e4441.chunk.css.map",
+    "static/js/2.caf0cd6f.chunk.js.LICENSE.txt": "/Bhangaar-on-Budget/static/js/2.caf0cd6f.chunk.js.LICENSE.txt",
+    "static/media/Logo.5e0e3be6.png": "/Bhangaar-on-Budget/static/media/Logo.5e0e3be6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.753bc0e9.js",
-    "static/css/2.4659568d.chunk.css",
-    "static/js/2.ec081397.chunk.js",
-    "static/css/main.0edde7bc.chunk.css",
-    "static/js/main.582ecda8.chunk.js"
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.caf0cd6f.chunk.js",
+    "static/css/main.b22e4441.chunk.css",
+    "static/js/main.2e763d58.chunk.js"
   ]
 }
