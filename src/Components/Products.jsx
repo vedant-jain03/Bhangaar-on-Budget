@@ -58,7 +58,7 @@ function Product({ item }) {
                 <h3 className="prod_title">{item.title}</h3>
                 <p className="prod_desc">{item.desc}</p>
                 <div className="wrap">
-                    <h2 className="prod_price">{item.price} Rs.</h2>
+                    <h2 className="prod_price" style={{"color":"black"}}>{item.price} Rs.</h2>
                     <button className="secondary-button-two" onClick={buy}>Buy</button>
                 </div>
             </div>

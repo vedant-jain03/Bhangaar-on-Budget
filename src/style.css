@@ -6,13 +6,14 @@
 
 body{
     scroll-behavior: smooth;
-    color: #fff;
-    background: -webkit-linear-gradient(110deg, #a60af3 40%, rgba(0, 0, 0, 0) 30%), -webkit-radial-gradient(farthest-corner at 0% 0%, #7a00cc 70%, #c03fff 70%);
+    color: white;
+    background-color: #91C483;
+    /* background: -webkit-linear-gradient(110deg, #a60af3 40%, rgba(0, 0, 0, 0) 30%), -webkit-radial-gradient(farthest-corner at 0% 0%, #7a00cc 70%, #c03fff 70%);
     background: -o-linear-gradient(110deg, #a60af3 40%, rgba(0, 0, 0, 0) 30%), -o-radial-gradient(farthest-corner at 0% 0%, #7a00cc 70%, #c03fff 70%);
     background: -moz-linear-gradient(110deg, #a60af3 40%, rgba(0, 0, 0, 0) 30%), -moz-radial-gradient(farthest-corner at 0% 0%, #7a00cc 70%, #c03fff 70%);
     background: linear-gradient(110deg, #a60af3 40%, rgba(0, 0, 0, 0) 30%), radial-gradient(farthest-corner at 0% 0%, #7a00cc 70%, #c03fff 70%);
 	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
+	animation: gradient 15s ease infinite; */
 	height: 100vh;
 }
 @keyframes gradient {
@@ -35,7 +36,7 @@ a{
     text-decoration: none;
 }
 .main-container {
-    padding: 0 2rem;
+    padding: 0 5rem;
 }
 .primary-button {
     transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
@@ -89,16 +90,16 @@ a{
 }
 .heading{
     font-size: 4rem;
-    color: white;
+    color: rgb(46, 61, 39);
     font-weight: bold;
 }
 .para {
-    font-size: 1rem;
-    color: #f3f1f1;
+    font-size: 21px;
+    color: black;
 }
 .sub-heading{
     font-size: 3rem;
-    color: white;
+    color: rgb(42, 61, 42);
     font-weight: bold;
 }
 .section {
@@ -114,7 +115,7 @@ a{
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #fff;
+    background-color: #eefcda;
     background-clip: border-box;
     /* border: 1px solid rgba(0,0,0,.125); */
     border-radius: 0.25rem;
@@ -131,16 +132,15 @@ a{
 }
 .step-card .card-h{
     font-size: 15px;
-    font-weight: 100;
     color: black;
 }
 .center-line{
     position: absolute;
-    height: 90%;
+    height: 88%;
     width: 4px;
-    background: #6415ff;
+    background: var(--bs-green);
     left: 50%;
-    top: 5%;
+    top: 6%;
     transform: translateX(-50%);
 }
 .service-card {
@@ -149,7 +149,7 @@ a{
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #fff;
+    background-color: #eefcdaa1;
     background-clip: border-box;
     /* border: 1px solid rgba(0,0,0,.125); */
     border-radius: .25rem;
@@ -449,6 +449,7 @@ a{
 .product_card {
     width: 250px;
     /* background: black; */
+    background: #eefcda57;
     display: flex;
     flex-direction: column;
     height: 400px;
@@ -474,6 +475,7 @@ a{
 }
 .product_card .down .prod_title{
     font-size: 25px;
+    color: #166b44;
     text-align: center;
     white-space: nowrap;
   overflow: hidden;
@@ -483,6 +485,7 @@ a{
 .product_card .down .prod_desc {
     height: 70px;
     overflow: hidden;
+    color: black;
 }
 
 .product_card .down .wrap {

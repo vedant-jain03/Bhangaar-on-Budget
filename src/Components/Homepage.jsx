@@ -2,14 +2,18 @@ import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "../style.css"
 import { Link } from "react-router-dom"
-import Logo from "../Logo.png"
+import Logo from "../Logo1.png"
+import Earth from "../Earth.png"
+import Garbage2 from "../Garbage2.png"
 
 function Homepage() {
     return (
         <div>
             <div className="landing-page">
                 <div className="left">
-                    <h1 className="heading">Bhangaar on Budget</h1>
+                <div>
+                <img src={Logo} style={{ width: '30rem', borderRadius: '10px', marginRight:'2rem' }} alt="" />
+                </div>
                     <p className="para">
                         Don't know what to do with the pile of garbage? <br />
                         <b><i>Sell or Donate</i></b> us in <b><i>Bhangaar on Budget</i></b> and get exciting and reasonable refunds.
@@ -23,18 +27,16 @@ function Homepage() {
                     </div>
                 </div>
                 <div>
-                    <img src={Logo} style={{ width: '30rem', borderRadius: '10px', marginRight:'2rem' }} alt="" />
+                    <img src={Earth} style={{ width: '37rem', borderRadius: '10px', marginRight:'2rem' }} alt="" />
                 </div>
             </div>
-            <center><h1 className="sub-heading" id="about">About Us</h1></center>
+            
             <div className="landing-page about">
-                <div className="right" style={{ display: 'flex', flexWrap: 'wrap', borderRadius: '10px', overflow: 'hidden' }}>
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQBx08Oy1GidPOecE4bN5E_dlKMqVWAP3BA&usqp=CAU" alt="" />
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQzgicrCxm9WpkeKCduzB6_wnk0GLdGDyOQ&usqp=CAU" alt="" />
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8zR_-qrWjxdmdZ313ZDO-ifBpye4QcTIbkg&usqp=CAU" alt="" />
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpAjUjTPWpP1kPXdJdC_oblX0Gzhiez7EGlQ&usqp=CAU" alt="" />
+                <div>
+                <img src={Garbage2} style={{ width: '33rem', borderRadius: '10px', marginRight:'2rem' }} alt="" />
                 </div>
                 <div className="left">
+                <center><h1 className="sub-heading" id="about">About Us</h1></center>
                     <div className="para">We in Bhangaar on Budget are working towards a green and clean environment by reusing and recycling the waste materials found in our house. The waste products or "Kabaad" of someone can turn out to be useful for someone else. Without disrupting the livelihood of the "kabaadiwalas" we are trying to work with/for them to make the connection between the buyer and the seller more smooth and transparent.</div>
                 </div>
             </div>

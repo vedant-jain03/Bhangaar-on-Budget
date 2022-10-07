@@ -4,6 +4,7 @@ import React, { useState, useContext } from 'react'
 import { Link, useHistory } from "react-router-dom";
 // import { usercontext } from '../Contexts/usercontext';
 // import { useEffect } from 'react';
+import Garbage from '../Garbage.png';
 import {userContext} from "../App"
 function Login() {
     const {userexist,setuserexist,setuserdetails} = useContext(userContext);
@@ -27,7 +28,7 @@ function Login() {
         <div class="login_register">
             <div className="left">
                 <a href="#">Bhangaar On Budget</a>
-                <img src="https://pratibharana.com/wp-content/uploads/2021/04/web-development-banner.jpg" alt="" />
+                <img src={Garbage} alt="" />
                 <h3>
                 Don't know what to do with the pile of garbage? <br />
                         <b><i>Sell or Donate</i></b> us in <b><i>Bhangaar on Budget</i></b> and get exciting and reasonable refunds.
